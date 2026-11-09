@@ -1,0 +1,1 @@
+"""EdgeMind AI core package."""
